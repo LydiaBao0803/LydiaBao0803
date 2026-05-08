@@ -1,6 +1,6 @@
 # Hi, I'm Lydia Bao 👋
 
-**M.S. Statistics @ Yale University** | Seeking full-time roles in Data Science, Statistical Modeling, and Analytics
+**M.S. Biostatistics @ Yale University** | Seeking full-time roles in Data Science, Statistical Modeling, and Analytics
 
 ---
 
@@ -18,7 +18,6 @@ I'm a statistician and data scientist with a strong foundation in machine learni
 
 **Languages:** Python · R · SQL · MATLAB
 **ML / DL:** TensorFlow/Keras · scikit-learn · XGBoost · PyTorch
-**Statistics:** GARCH · Causal Inference · Bayesian Methods · PCA
 **NLP:** BERT · RoBERTa · SVM · Sentiment Analysis
 **Tools:** Jupyter · R Markdown · LaTeX · Git · Pandas · GeoPandas
 
@@ -37,4 +36,4 @@ I'm a statistician and data scientist with a strong foundation in machine learni
 
 ---
 
-*Open to full-time opportunities in the U.S. — Data Scientist · Statistician · Quantitative Analyst*
+*Open to full-time opportunities in the U.S. — Data Scientist · Quantitative Analyst*
