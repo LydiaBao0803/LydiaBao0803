@@ -13,10 +13,10 @@ I'm a statistician and data scientist with a strong foundation in machine learni
 
 ## 🛠️ Skills
 
-**Languages:** Python · R · SQL · LLM · MATLAB · Java
-**ML / DL:** TensorFlow/Keras · scikit-learn · XGBoost · PyTorch
-**NLP:** BERT · RoBERTa · SVM · Sentiment Analysis
-**Tools:** Jupyter · R Markdown · LaTeX · Git · Pandas · GeoPandas · LLM APIs
+- **Languages:** Python · R · SQL · LLM · MATLAB · Java
+- **ML / DL:** TensorFlow/Keras · scikit-learn · XGBoost · PyTorch
+- **NLP:** BERT · RoBERTa · SVM · Sentiment Analysis
+- **Tools:** Jupyter · R Markdown · LaTeX · Git · Pandas · GeoPandas · LLM APIs
 
 ---
 
