@@ -5,8 +5,8 @@
 
 I'm a statistician and data scientist with a strong foundation in machine learning, statistical inference, and causal reasoning. My work spans deep learning for medical imaging, financial econometrics, NLP, and time series forecasting.
 
-- 🎓 **Yale University** — M.S. in Statistics
-- 🏫 **Central University of Finance and Economics** — B.S. in Statistics
+- 🎓 **Yale University** — M.S. in Biostatistics
+- 🏫 **Central University of Finance and Economics** — B.S. in Data Science and Big Data Technology
 - 🌏 **UC Berkeley** — Exchange Student, Dept. of Statistics
 
 ---
